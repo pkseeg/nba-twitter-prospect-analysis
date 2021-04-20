@@ -1,0 +1,5 @@
+02.04
+
+- bucket the players by min tweet date, max tweet date (include those as features)
+- metric can be projected WAR from sentiment
+- start with the 

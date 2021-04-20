@@ -1,0 +1,38 @@
+- Chat with Nate
+  - don't feel like I need to do Nate's project further
+  - get all his code somehow
+  - collaborating with people who have already done work is a big skill in the data science community
+More of a mentorship thing
+  - couple zoom calls throughout the semester
+  - emails once a week-ish
+
+Project itself
+  - who a person is and how they think matters to what they do
+  - lots of teams have been turning to personality tests, psych data to get an edge
+  - very okay if this project shows that there is nothing in there
+  - Nate took it to correlate with on-court performance
+  - if I throw in these pysch metrics into a draft model
+  - prediction:
+    - length of career
+    - second contract
+    - draft position
+      - maybe people who can sell themselves better
+  - data scraping, reporting visualization, etc
+  - are they pushing products?
+  - topics of the tweets themselves is super interesting
+  - instagram API
+
+
+- basketball schedule, basketball decisions
+  - winning streak, losing streak, trade deadline, playoffs, etc
+  - players with this type of personality during losing streak will turn to social media, etc
+    - this guy will always be agreeable regardless of
+  - guy around extension time, does it matter?
+
+- player similarity is a tricky thing to sell and explain to people
+- scouting meeting
+  - 8 components
+  - agreeableness is hurting
+  - details are not as important!
+  - "personality is a bump in the right direction"
+  - holistically, comparison

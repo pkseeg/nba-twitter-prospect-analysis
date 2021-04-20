@@ -1,0 +1,15 @@
+Psych/Draft Model w/Colin from the Kings
+
+Nice!
+
+Notes:
+3. Psych/Draft Model !!!!!!!!
+  - NBA Twitter accounts
+  - personality traits based on tweets
+  - EXTREMELY interested
+  - build it into a draft model
+
+My ideas:
+- +/- model for each player account (compared to baseline model)
+- timeline of positivity/negativity
+- show how much this affects play/prospectivity

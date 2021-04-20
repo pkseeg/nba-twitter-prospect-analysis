@@ -1,0 +1,7 @@
+1. Email Prof Z for API key
+2. Get personalities data table
+3. Merge tables on draft year
+    3a. Determine how many pre-draft years we have
+    3b. Might need to repeat, get more data (?)
+        3b1. Check for way to ignore non-English tweets (that was a big part of it)
+4. Start building models
